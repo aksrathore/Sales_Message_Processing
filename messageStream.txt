@@ -1,0 +1,99 @@
+banana at 02p
+17 sales of bananas at 02p each
+banana t 10p
+15 sales of peaches at 10p each
+peach at 10
+16 sales of oranges at 10p each
+orange at 10p
+35 sales of pineapples at 15p each
+pineapple 10p
+25 sales of strawberries at 4p each
+strawberry t 5p
+apple at 07p
+30 sales of apples at 07p each
+Add 20p apples
+coconut at 05p
+30 sales of coconuts at 05p each
+Add 05p coconuts
+apple at 07p
+24 sales of plums at 15p each
+plums at 15p
+Watermelon at 25p
+05 sales of watermelons at 25p each
+apple 10p
+Add 1p pineapples
+Add 2p bananas
+Subtract 5p apples
+apple at 07p
+25 sales of apples at 07p each
+Add 20p apples
+apple at 07p
+07 sales of apples at 07p each
+Add 20p apples
+apple at 07p
+36 sales of bananas at 02p each
+banana at 02p
+10 sales of peaches at 10p each
+peach at 10p
+12 sales of oranges at 10p each
+orange at 10p
+08 sales of pineapples at 15p each
+pineapple at 15p
+coconut at 05p
+06 sales of coconuts at 05p each
+Add 05p coconuts
+10 sales of strawberries at 4p each
+apple at 07p
+07 sales of apples at 07p each
+Multiply 20p strawberries
+apple at 07p
+24 sales of bananas at 02p each
+banana at 02p
+Add 5p pineapples
+Subtract 5p peaches
+12 sales of plums
+35 sales of peaches at 10p each
+peach at 10p
+24 sales of oranges at 10p each
+orange at 10p
+pear at 10p
+16 sales of pears at 10p each
+Add 10p pears
+02 sales of pineapples at 15p each
+pineapple at 15p
+15 sales of strawberries at 4p each
+apple at 07p
+05 sales of apples at 07p each
+Add 20p apples
+apple at 07p
+06 sales of apples at 07p each
+Add 20p apples
+apple at 07p
+guava at 07p
+08 sales of guavas at 07p each
+Add 07 guavas
+12 sales of bananas at 02p each
+banana at 02p
+24 sales of peaches at 10p each
+peach at 10p
+30 sales of oranges at 10p each
+orange at 10p
+kiwifruit at 03p
+18 sales of kiwifruits at 03p each
+Add 03p kiwifruits
+18 sales of pineapples at 15p each
+pineapple at 15p
+05 sales of strawberries at 4p each
+15 sales of apples at 07p each
+Add 20p apples
+apple at 07p
+mango at 15p
+12 sales of mangoes at 15p each
+Add 05p mangoes
+24 sales of bananas at 02p each
+banana at 02p
+30 sales of peaches at 10p each
+07 sales of apples at 07p each
+guava at 07p
+18 sales of guavas at 07p each
+Add 07p guavas
