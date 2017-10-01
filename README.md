@@ -31,7 +31,7 @@ I tried to follow SOLID Principles as much as possible.
 1. Message Type 1 : "apple at 10p"                   : ^([A-z]+) at (\\d+p)$
 2. Message Type 2 : "20 sales of apples at 10p each" : ^(\\d+) sales of ([a-z]+) at (\\d+p) each$
 3. Message Type 3 : "Add 20p apples"                 : ^([A-Z][a-z]+) (\\d+p) ([a-z]+)$
--After processing 50 messages, the application asks for user input to process further
+- After processing 50 messages, the application asks for user input to process further
 - No Explicit Logging is provided. All the messages are printed on the console. To avoid using third party libraries and keeping the application simple, only simple print statement is used. All the error messages are printed using System.err.
  
 ## Algorithm
