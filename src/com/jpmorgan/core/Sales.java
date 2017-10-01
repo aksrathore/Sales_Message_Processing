@@ -16,10 +16,11 @@ import com.jpmorgan.operation.AdjustOperation;
 import com.jpmorgan.product.Product;
 import com.jpmorgan.report.SalesReport;
 
-/*It is the core service class of the application. It interacts with the MessageParser.java to get the parsed message 
- and store the information in the Product Pojo Class with is then store in the HashMap. It checks if the 10th message is reached then 
- the Sales report is generated with the help of SalesReport Class. Also, Price Adjustment Operation is handled by the AdjustOperation
- Class.*/
+/*It is the core service class of the application. It interacts with the MessageParser.java 
+ to get the parsed message and store the information in the Product Pojo Class with is then 
+ store in the HashMap. It checks if the 10th message is reached then the Sales report is generated
+ with the help of SalesReport Class. Also, Price Adjustment Operation is handled by the AdjustOperation Class.
+ */
 
 public class Sales {
 
@@ -38,8 +39,7 @@ public class Sales {
 	 * SalesReport for generating report, AdjustOperation for making adjustment
 	 * operations and MessageParser to parse the input notification messages
 	 * 
-	 * @param message
-	 *            input notification message to be parsed
+	 * @param message input notification message to be parsed
 	 * @return void
 	 * 
 	 */
@@ -103,8 +103,7 @@ public class Sales {
 	 * Calls the respective MessageType and parses message string This method is
 	 * called from processMessage()
 	 * 
-	 * @param message
-	 *            input notification message to be parsed
+	 * @param message input notification message to be parsed
 	 * @return parser MessageParser Object
 	 * 
 	 */
