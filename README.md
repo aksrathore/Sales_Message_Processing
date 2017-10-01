@@ -47,5 +47,5 @@ I tried to follow SOLID Principles as much as possible.
 - write customised Exceptions
 - write unit test cases
 - make it more robust to process inputs from any interface (e.g.,  JSON). Although proper care is taken to reduce the dependency on any other classes. Like for JSON we just have to add extra methods in the Sales.java and MessageParser Context class to deal with JSON format.
-- take care of synchronization of serializations
+- take care of synchronization or serializations
 
