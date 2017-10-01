@@ -4,7 +4,7 @@ import java.util.ResourceBundle;
 
 // Utility class to deal with changeable inputs
 public class Config {
-	private static final String BUNDLE_NAME = "resources/config"; //$NON-NLS-1$
+	private static final String BUNDLE_NAME = "resources/config";
 
 	private static final ResourceBundle RESOURCE_BUNDLE = ResourceBundle
 			.getBundle(BUNDLE_NAME);
