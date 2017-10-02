@@ -40,7 +40,7 @@ I tried to follow SOLID Principles as much as possible.
 3. A HashMap is used to store the product details which gets updated if any new sales occur. The product type (e.g., apple) is used as the key and the Product POJO Object is the value. This data structure is used to generate periodic sales report after every 10 sales process.
 4. The invalid message pattern is kept in a list which gets printed after every periodic sales report.
 5. Adjustment operations are performed and respective log is generated and store in a list in the Sales.java. The list is used after every 50th message processing to print the Adjustment Operation Report.
-6. After 50th message being processed, the processing is paused to ask for user intervention to proceed furthr or end processing.
+6. After 50th message being processed, the processing is paused to ask for user intervention to proceed further or end processing.
    
 ## To do
 - use proper logging of the report
